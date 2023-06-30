@@ -9,7 +9,7 @@
     </tr>
     <tr>
         <td>
-            <a href="">🌐</a>
+            <a href="https://ryanqle.github.io/">🌐</a>
         </td>
         <td>
             <a href="https://docs.google.com/document/d/1msscDbS8GlR7SU8LJB-wx6_VdmEJ2Zoo6iQ6UhI59IU/edit?usp=sharing">📃</a>
